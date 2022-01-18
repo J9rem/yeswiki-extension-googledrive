@@ -1,4 +1,4 @@
-# Extension YesWiki googledrive
+# Extension YesWiki googledrive (DEPRECIEE)
 ### Champs pour formulaire bazar pour créer automatiquement un document collaboratif associé a une fiche
 
 
